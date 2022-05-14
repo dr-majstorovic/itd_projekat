@@ -1,0 +1,49 @@
+body {
+    background-color: #000;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+/* ona lijepa boja: 9FDFC0 */
+
+/* nav bar */
+ul {
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: sticky;
+    list-style-type: none;
+    display: inline-block;
+    color: bisque;
+    background-color: #53C679;
+    top: 0px;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+li {
+    display: inline;
+    float: right;
+    padding: 10px;
+}
+li a {
+    display: block;
+    color: bisque;
+    text-decoration: none;
+}
+li a:hover {
+    color: aliceblue;
+    text-decoration: none;
+}
+
+/* glavne sekcije */
+
+.sekcija {
+    text-align: justify;
+    font-size: 35px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    font-style: normal;
+    color: #000;
+    background-color: #9FDFC0;
+    margin-bottom: 30px;
+    position: static;
+    padding: 200px;
+}
