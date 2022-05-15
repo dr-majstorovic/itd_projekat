@@ -45,8 +45,14 @@ li a:hover {
     margin-bottom: 30px;
     position: static;
     padding: 200px;
+    padding-top: 100px;
 }
 
 .sekcija div {
     display: inline;
 }
+ #naslovdiv {
+    margin-left: 120px;
+    margin-right: 120px;
+    display: block;
+ }
